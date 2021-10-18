@@ -1,0 +1,12 @@
+class_names:
+- 0
+- 1
+input:
+- tdmin
+- tdchar
+- temin
+- tecahr
+- tnmin
+- tnchar
+- timin
+- tichar
